@@ -1,0 +1,20 @@
+{
+  "pages": {
+    "homePage": {
+      "title": "hello word!"
+    },
+    "about-us": {
+      "title": "about us"
+    }
+  },
+  "navbar": {
+    "home": "home",
+    "about-us": "about us"
+  },
+  "components": {
+    "locale-switcher": {
+      "fa": "persian",
+      "en": "english"
+    }
+  }
+}

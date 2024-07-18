@@ -1,0 +1,20 @@
+{
+  "pages": {
+    "homePage": {
+      "title": "سلام دنیا!"
+    },
+    "about-us": {
+      "title": "درباره ما"
+    }
+  },
+  "navbar": {
+    "home": "خانه",
+    "about-us": "درباره ما"
+  },
+  "components": {
+    "locale-switcher": {
+      "fa": "فارسی",
+      "en": "انگلیسی"
+    }
+  }
+}
