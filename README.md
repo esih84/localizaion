@@ -1,4 +1,4 @@
-This is a simple bilingual NextJS program that supports Farsi and English
+This is a simple bilingual NextJS program that supports Persian and English
 
 ## Getting Started
 
